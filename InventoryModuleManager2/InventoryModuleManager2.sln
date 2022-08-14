@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryModuleManager2", "InventoryModuleManager2\InventoryModuleManager2.csproj", "{D8A75604-4582-461E-B2D3-474573D82AB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{52C365CB-0D9B-4488-8011-93DF8E3AC30B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E6D025FA-C19C-41D5-B2AC-EB01322C7292}"
+	ProjectSection(SolutionItems) = preProject
+		src for Zip\DotNetZip\DotNetZipLib-v1.9.1.6.chm = src for Zip\DotNetZip\DotNetZipLib-v1.9.1.6.chm
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageSearch", "StorageSearch\StorageSearch.csproj", "{CDEC7C3D-7F17-49FF-AD89-7C8B36B5BAA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageTools", "StorageTools\StorageTools.csproj", "{AAA5A583-5321-4DBB-B09D-0F722CB47E7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8A75604-4582-461E-B2D3-474573D82AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A75604-4582-461E-B2D3-474573D82AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A75604-4582-461E-B2D3-474573D82AB9}.Debug|x86.ActiveCfg = Debug|x86
+		{D8A75604-4582-461E-B2D3-474573D82AB9}.Debug|x86.Build.0 = Debug|x86
+		{D8A75604-4582-461E-B2D3-474573D82AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A75604-4582-461E-B2D3-474573D82AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8A75604-4582-461E-B2D3-474573D82AB9}.Release|x86.ActiveCfg = Release|x86
+		{D8A75604-4582-461E-B2D3-474573D82AB9}.Release|x86.Build.0 = Release|x86
+		{52C365CB-0D9B-4488-8011-93DF8E3AC30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C365CB-0D9B-4488-8011-93DF8E3AC30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C365CB-0D9B-4488-8011-93DF8E3AC30B}.Debug|x86.ActiveCfg = Debug|x86
+		{52C365CB-0D9B-4488-8011-93DF8E3AC30B}.Debug|x86.Build.0 = Debug|x86
+		{52C365CB-0D9B-4488-8011-93DF8E3AC30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C365CB-0D9B-4488-8011-93DF8E3AC30B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C365CB-0D9B-4488-8011-93DF8E3AC30B}.Release|x86.ActiveCfg = Release|x86
+		{52C365CB-0D9B-4488-8011-93DF8E3AC30B}.Release|x86.Build.0 = Release|x86
+		{CDEC7C3D-7F17-49FF-AD89-7C8B36B5BAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDEC7C3D-7F17-49FF-AD89-7C8B36B5BAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDEC7C3D-7F17-49FF-AD89-7C8B36B5BAA7}.Debug|x86.ActiveCfg = Debug|x86
+		{CDEC7C3D-7F17-49FF-AD89-7C8B36B5BAA7}.Debug|x86.Build.0 = Debug|x86
+		{CDEC7C3D-7F17-49FF-AD89-7C8B36B5BAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEC7C3D-7F17-49FF-AD89-7C8B36B5BAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDEC7C3D-7F17-49FF-AD89-7C8B36B5BAA7}.Release|x86.ActiveCfg = Release|x86
+		{CDEC7C3D-7F17-49FF-AD89-7C8B36B5BAA7}.Release|x86.Build.0 = Release|x86
+		{AAA5A583-5321-4DBB-B09D-0F722CB47E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA5A583-5321-4DBB-B09D-0F722CB47E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA5A583-5321-4DBB-B09D-0F722CB47E7F}.Debug|x86.ActiveCfg = Debug|x86
+		{AAA5A583-5321-4DBB-B09D-0F722CB47E7F}.Debug|x86.Build.0 = Debug|x86
+		{AAA5A583-5321-4DBB-B09D-0F722CB47E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA5A583-5321-4DBB-B09D-0F722CB47E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA5A583-5321-4DBB-B09D-0F722CB47E7F}.Release|x86.ActiveCfg = Release|x86
+		{AAA5A583-5321-4DBB-B09D-0F722CB47E7F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

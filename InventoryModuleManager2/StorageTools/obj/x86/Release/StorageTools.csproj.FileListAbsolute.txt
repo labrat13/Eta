@@ -1,0 +1,15 @@
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageTools\bin\x86\Release\Readme.txt
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageTools\bin\x86\Release\Version.txt
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageTools\bin\x86\Release\StorageTools.exe.config
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageTools\bin\x86\Release\StorageTools.exe
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageTools\bin\x86\Release\StorageTools.pdb
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageTools\bin\x86\Release\InventoryModuleManager2.dll
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageTools\bin\x86\Release\InventoryModuleManager2.pdb
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageTools\obj\x86\Release\ResolveAssemblyReference.cache
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageTools\obj\x86\Release\StorageTools.BookInfo.resources
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageTools\obj\x86\Release\StorageTools.Form1.resources
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageTools\obj\x86\Release\StorageTools.Properties.Resources.resources
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageTools\obj\x86\Release\StorageTools.StorageInfoForm.resources
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageTools\obj\x86\Release\StorageTools.csproj.GenerateResource.Cache
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageTools\obj\x86\Release\StorageTools.exe
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageTools\obj\x86\Release\StorageTools.pdb

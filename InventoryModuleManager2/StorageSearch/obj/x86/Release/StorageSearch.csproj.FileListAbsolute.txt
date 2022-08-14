@@ -1,0 +1,64 @@
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\bin\x86\Release\StorageSearch.exe
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\bin\x86\Release\StorageSearch.pdb
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\bin\x86\Release\InventoryModuleManager2.dll
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\bin\x86\Release\InventoryModuleManager2.pdb
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.Form1.resources
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.Properties.Resources.resources
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.csproj.GenerateResource.Cache
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.exe
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.pdb
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\bin\x86\Release\StorageSearch.exe.config
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.EntityForm.resources
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.ProgressForm.resources
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.SearchPlacesForm.resources
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\bin\x86\Release\mainicon.ico
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\bin\x86\Release\Readme.txt
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\bin\x86\Release\StorageSearch.exe.manifest
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\bin\x86\Release\StorageSearch.application
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.TrustInfo.xml
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.exe.manifest
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.application
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\StorageSearch.exe.config
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.exe
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.pdb
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\mainicon.ico
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\Readme.txt
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\StorageSearch.exe.manifest
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\StorageSearch.application
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\StorageSearch.exe
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\StorageSearch.pdb
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\InventoryModuleManager2.dll
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\InventoryModuleManager2.pdb
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.EntityForm.resources
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.Form1.resources
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.ProgressForm.resources
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.Properties.Resources.resources
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.SearchPlacesForm.resources
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.csproj.GenerateResource.Cache
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.TrustInfo.xml
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.exe.manifest
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.application
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\Readme.txt
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\Version.txt
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\mainicon.ico
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\StorageSearch.exe.config
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\StorageSearch.exe.manifest
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\StorageSearch.application
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\StorageSearch.exe
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\StorageSearch.pdb
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\InventoryModuleManager2.dll
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\bin\x86\Release\InventoryModuleManager2.pdb
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\ResolveAssemblyReference.cache
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.EntityForm.resources
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.Form1.resources
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.ProgressForm.resources
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.Properties.Resources.resources
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.SearchPlacesForm.resources
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.csproj.GenerateResource.Cache
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.TrustInfo.xml
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.exe.manifest
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.application
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.exe
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\StorageSearch\obj\x86\Release\StorageSearch.pdb

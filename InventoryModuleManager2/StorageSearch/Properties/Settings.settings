@@ -1,0 +1,37 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="StorageSearch.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="StoragePathesXml" Description="Storage pathes from user" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;one&lt;/string&gt;
+  &lt;string&gt;two&lt;/string&gt;
+  &lt;string&gt;tree&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="StorageClassesXml" Description="Storage classes from storages scan" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;one&lt;/string&gt;
+  &lt;string&gt;two&lt;/string&gt;
+  &lt;string&gt;tree&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="SearchPatternsXml" Description="List of last used search patterns" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;one&lt;/string&gt;
+  &lt;string&gt;two&lt;/string&gt;
+  &lt;string&gt;tree&lt;/string&gt;
+  &lt;string&gt;&amp;lt;tree&amp;gt;&amp;amp;nbst;&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="CheckBoxState" Description="Search panel checkbox states" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MemoryLimit" Description="RAM limit for search engine" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">256000000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

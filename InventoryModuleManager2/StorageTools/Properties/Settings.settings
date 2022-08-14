@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="StorageTools.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DescriptionFileExtensions" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.txt .diz</Value>
+    </Setting>
+    <Setting Name="PictureFileExtensions" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.gif .jpg .jpeg .tiff .png</Value>
+    </Setting>
+    <Setting Name="DocumentFileExtensions" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.pdf .djv .djvu .doc .rtf .xls .zip .chm .7z .epub .htm .html .ppt</Value>
+    </Setting>
+    <Setting Name="LastStorageFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Temp</Value>
+    </Setting>
+    <Setting Name="LastSourceFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Temp</Value>
+    </Setting>
+    <Setting Name="ShowDescriptionForm_Flag" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

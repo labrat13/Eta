@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D8A75604-4582-461E-B2D3-474573D82AB9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>InventoryModuleManager2</RootNamespace>
+    <AssemblyName>InventoryModuleManager2</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ArchiveController.cs" />
+    <Compile Include="ArchiveTransaction.cs" />
+    <Compile Include="ClassificationEntity\ClassItem.cs" />
+    <Compile Include="ClassificationEntity\LinkBuilder.cs" />
+    <Compile Include="ClassificationEntity\LinkType.cs" />
+    <Compile Include="ClassificationEntity\oldversion\EntityType.cs" />
+    <Compile Include="ClassificationEntity\oldversion\EntityTypesCollection.cs" />
+    <Compile Include="CRC32s.cs" />
+    <Compile Include="DocumentCollection.cs" />
+    <Compile Include="DocumentEnumerator.cs" />
+    <Compile Include="EntityCollection.cs" />
+    <Compile Include="EntityEnumerator.cs" />
+    <Compile Include="Ionic.Zip\ComHelper.cs" />
+    <Compile Include="Ionic.Zip\CommonSrc\CRC32.cs" />
+    <Compile Include="Ionic.Zip\EncryptionAlgorithm.cs" />
+    <Compile Include="Ionic.Zip\Events.cs" />
+    <Compile Include="Ionic.Zip\Exceptions.cs" />
+    <Compile Include="Ionic.Zip\ExtractExistingFileAction.cs" />
+    <Compile Include="Ionic.Zip\FileSelector.cs" />
+    <Compile Include="Ionic.Zip\OffsetStream.cs" />
+    <Compile Include="Ionic.Zip\Shared.cs" />
+    <Compile Include="Ionic.Zip\WinZipAes.cs" />
+    <Compile Include="Ionic.Zip\ZipConstants.cs" />
+    <Compile Include="Ionic.Zip\ZipCrypto.cs" />
+    <Compile Include="Ionic.Zip\ZipDirEntry.cs" />
+    <Compile Include="Ionic.Zip\ZipEntry.cs" />
+    <Compile Include="Ionic.Zip\ZipEntry.Extract.cs" />
+    <Compile Include="Ionic.Zip\ZipEntry.Read.cs" />
+    <Compile Include="Ionic.Zip\ZipEntry.Write.cs" />
+    <Compile Include="Ionic.Zip\ZipEntrySource.cs" />
+    <Compile Include="Ionic.Zip\ZipErrorAction.cs" />
+    <Compile Include="Ionic.Zip\ZipFile.AddUpdate.cs" />
+    <Compile Include="Ionic.Zip\ZipFile.Check.cs" />
+    <Compile Include="Ionic.Zip\ZipFile.cs" />
+    <Compile Include="Ionic.Zip\ZipFile.Events.cs" />
+    <Compile Include="Ionic.Zip\ZipFile.Extract.cs" />
+    <Compile Include="Ionic.Zip\ZipFile.Read.cs" />
+    <Compile Include="Ionic.Zip\ZipFile.Save.cs" />
+    <Compile Include="Ionic.Zip\ZipFile.SaveSelfExtractor.cs" />
+    <Compile Include="Ionic.Zip\ZipFile.Selector.cs" />
+    <Compile Include="Ionic.Zip\ZipFile.x-IEnumerable.cs" />
+    <Compile Include="Ionic.Zip\ZipInputStream.cs" />
+    <Compile Include="Ionic.Zip\ZipOutputStream.cs" />
+    <Compile Include="Ionic.Zip\ZipSegmentedStream.cs" />
+    <Compile Include="Ionic.Zip\Zlib\Deflate.cs" />
+    <Compile Include="Ionic.Zip\Zlib\DeflateStream.cs" />
+    <Compile Include="Ionic.Zip\Zlib\GZipStream.cs" />
+    <Compile Include="Ionic.Zip\Zlib\Inflate.cs" />
+    <Compile Include="Ionic.Zip\Zlib\InfTree.cs" />
+    <Compile Include="Ionic.Zip\Zlib\ParallelDeflateOutputStream.cs" />
+    <Compile Include="Ionic.Zip\Zlib\Tree.cs" />
+    <Compile Include="Ionic.Zip\Zlib\Zlib.cs" />
+    <Compile Include="Ionic.Zip\Zlib\ZlibBaseStream.cs" />
+    <Compile Include="Ionic.Zip\Zlib\ZlibCodec.cs" />
+    <Compile Include="Ionic.Zip\Zlib\ZlibConstants.cs" />
+    <Compile Include="Ionic.Zip\Zlib\ZlibStream.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="DbAdapter.cs" />
+    <Compile Include="EntityRecord.cs" />
+    <Compile Include="FileRecord.cs" />
+    <Compile Include="Manager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ClassificationEntity\QualifiedName.cs" />
+    <Compile Include="RecordBase.cs" />
+    <Compile Include="Session.cs" />
+    <Compile Include="SessionState.cs" />
+    <Compile Include="StorageException.cs" />
+    <Compile Include="StorageInfo.cs" />
+    <Compile Include="Utility.cs" />
+    <Compile Include="ZipWorker.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\base.mdb">
+    </None>
+    <Content Include="ClassificationEntity\oldversion\Список требований.txt" />
+    <Content Include="Readme.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ToDo.txt" />
+    <Content Include="TransactionObj.txt" />
+    <Content Include="Version.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

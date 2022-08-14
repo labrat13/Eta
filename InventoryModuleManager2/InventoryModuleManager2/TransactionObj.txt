@@ -1,0 +1,83 @@
+﻿Это пример интерфейса объекта транзакции. Но он конечно неполный. Нет внутреннего устройства.
+И большая часть этих свойств мне не пригодится.
+
+using System;
+using System.Data;
+using System.Data.Common;
+
+namespace System.Data.OleDb
+{
+    // Summary:
+    //     Represents an SQL transaction to be made at a data source. This class cannot
+    //     be inherited.
+    public sealed class OleDbTransaction : DbTransaction
+    {
+        // Summary:
+        //     Gets the System.Data.OleDb.OleDbConnection object associated with the transaction,
+        //     or null if the transaction is no longer valid.
+        //
+        // Returns:
+        //     The System.Data.OleDb.OleDbConnection object associated with the transaction.
+        public OleDbConnection Connection { get; }
+        protected override DbConnection DbConnection { get; }
+        //
+        // Summary:
+        //     Specifies the System.Data.IsolationLevel for this transaction.
+        //
+        // Returns:
+        //     The System.Data.IsolationLevel for this transaction. The default is ReadCommitted.
+        public override IsolationLevel IsolationLevel { get; }
+
+        // Summary:
+        //     Initiates a nested database transaction.
+        //
+        // Returns:
+        //     A nested database transaction.
+        //
+        // Exceptions:
+        //   System.InvalidOperationException:
+        //     Nested transactions are not supported.
+        public OleDbTransaction Begin();
+        //
+        // Summary:
+        //     Initiates a nested database transaction and specifies the isolation level
+        //     to use for the new transaction.
+        //
+        // Parameters:
+        //   isolevel:
+        //     The isolation level to use for the transaction.
+        //
+        // Returns:
+        //     A nested database transaction.
+        //
+        // Exceptions:
+        //   System.InvalidOperationException:
+        //     Nested transactions are not supported.
+        public OleDbTransaction Begin(IsolationLevel isolevel);
+        //
+        // Summary:
+        //     Commits the database transaction.
+        //
+        // Exceptions:
+        //   System.Exception:
+        //     An error occurred while trying to commit the transaction.
+        //
+        //   System.InvalidOperationException:
+        //     The transaction has already been committed or rolled back.-or- The connection
+        //     is broken.
+        public override void Commit();
+        protected override void Dispose(bool disposing);
+        //
+        // Summary:
+        //     Rolls back a transaction from a pending state.
+        //
+        // Exceptions:
+        //   System.Exception:
+        //     An error occurred while trying to commit the transaction.
+        //
+        //   System.InvalidOperationException:
+        //     The transaction has already been committed or rolled back.-or- The connection
+        //     is broken.
+        public override void Rollback();
+    }
+}

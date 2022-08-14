@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InventoryModuleManager2.ArchiveController" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgAABIEKgAACYAEGAECkCRgECGgEEQAEwAQAABgwAA=</HashCode>
+      <FileName>ArchiveController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryModuleManager2.DbAdapter">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQSABEhAZIIQAKAEACDQIJBCFKESEASQAWAoIADwkAA=</HashCode>
+      <FileName>DbAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryModuleManager2.EntityRecord">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQoAABgAAgAERkgAQAIAQAQAAQAAQCBAAAAgBIYAA=</HashCode>
+      <FileName>EntityRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryModuleManager2.FileRecord">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAABBAAgAAAEAAAQIARIAAkEAAQCEAGEAABAQAA=</HashCode>
+      <FileName>FileRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryModuleManager2.Manager" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwECAAEAIQEoCBEEYAjAgQoAAAKNDAzgoEMAACkEQg=</HashCode>
+      <FileName>Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryModuleManager2.StorageInfo">
+    <Position X="6.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAAQJAAYAAgAUBEAABAIECLQERAAEIAEIDaAECCUCg=</HashCode>
+      <FileName>StorageInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryModuleManager2.RecordBase">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAIAIIAAAAAIAAEAACAAAAAAABA=</HashCode>
+      <FileName>RecordBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryModuleManager2.Session" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAQgAAAAIAAAAAIAoBAAAAAAAAAAgAQABACBAAI=</HashCode>
+      <FileName>Session.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryModuleManager2.ZipWorker">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAIAIAAAAAAAACCAAAAAAAAEAAAABAA=</HashCode>
+      <FileName>ZipWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryModuleManager2.EntityCollection">
+    <Position X="2.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>EntityCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InventoryModuleManager2.DocumentCollection">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>DocumentCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InventoryModuleManager2.DocumentEnumerator">
+    <Position X="4.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAEAxBAAAAACAAAAAAEAAAAAAIAAAAABAAAA=</HashCode>
+      <FileName>DocumentEnumerator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InventoryModuleManager2.EntityEnumerator">
+    <Position X="6" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAEAwBAAAAACAAAAAAEAAAAAAIAAAAABAAAA=</HashCode>
+      <FileName>EntityEnumerator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InventoryModuleManager2.ClassificationEntity.ClassItem">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAABAAEAEAAARAAAABAIAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassificationEntity\ClassItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryModuleManager2.ClassificationEntity.LinkBuilder">
+    <Position X="11.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAACAAIAEEAAAAEAAAAAAAAA=</HashCode>
+      <FileName>ClassificationEntity\LinkBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="InventoryModuleManager2.SessionState">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAACAABA=</HashCode>
+      <FileName>SessionState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="InventoryModuleManager2.ClassificationEntity.LinkType" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAQAAAAAQAAAAAAAAACQAABQ=</HashCode>
+      <FileName>ClassificationEntity\LinkType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

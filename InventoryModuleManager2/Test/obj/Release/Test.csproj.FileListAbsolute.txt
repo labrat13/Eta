@@ -1,0 +1,8 @@
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\bin\Release\Resources\base.mdb
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\bin\Release\Test.exe
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\bin\Release\Test.pdb
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\bin\Release\InventoryModuleManager2.dll
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\bin\Release\InventoryModuleManager2.pdb
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\obj\Release\ResolveAssemblyReference.cache
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\obj\Release\Test.exe
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\obj\Release\Test.pdb

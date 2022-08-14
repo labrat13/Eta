@@ -1,0 +1,23 @@
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\bin\x86\Release\Test.exe
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\bin\x86\Release\Test.pdb
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\bin\x86\Release\InventoryModuleManager2.dll
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\bin\x86\Release\InventoryModuleManager2.pdb
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\obj\x86\Release\Test.exe
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\obj\x86\Release\Test.pdb
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Release\Test.exe
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Release\Test.pdb
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Release\InventoryModuleManager2.dll
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Release\InventoryModuleManager2.pdb
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\obj\x86\Release\Test.exe
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\obj\x86\Release\Test.pdb
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Release\Readme.txt
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Release\Version.txt
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Release\Test.exe
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Release\Test.pdb
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Release\InventoryModuleManager2.dll
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Release\InventoryModuleManager2.pdb
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\obj\x86\Release\ResolveAssemblyReference.cache
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\obj\x86\Release\Test.exe
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\obj\x86\Release\Test.pdb

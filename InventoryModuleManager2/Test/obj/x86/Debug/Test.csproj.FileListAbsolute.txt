@@ -1,0 +1,23 @@
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\bin\x86\Debug\Test.exe
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\bin\x86\Debug\Test.pdb
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\bin\x86\Debug\InventoryModuleManager2.dll
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\bin\x86\Debug\InventoryModuleManager2.pdb
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\obj\x86\Debug\Test.exe
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\obj\x86\Debug\Test.pdb
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Debug\Test.exe
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Debug\Test.pdb
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Debug\InventoryModuleManager2.dll
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Debug\InventoryModuleManager2.pdb
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\obj\x86\Debug\Test.exe
+C:\Work\myVirtualDisk\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\obj\x86\Debug\Test.pdb
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Debug\Readme.txt
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Debug\Version.txt
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Debug\Test.exe
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Debug\Test.pdb
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Debug\InventoryModuleManager2.dll
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\bin\x86\Debug\InventoryModuleManager2.pdb
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\obj\x86\Debug\Test.exe
+V:\МоиПроекты\УтилитыХранилищ\РаботатьЗдесь\InventoryModuleManager2\Test\obj\x86\Debug\Test.pdb

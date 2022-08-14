@@ -1,0 +1,15 @@
+C:\Documents and Settings\JohnSmith\Мои документы\Visual Studio 2008\Projects\InventoryModuleManager2\Test\bin\Debug\Test.exe
+C:\Documents and Settings\JohnSmith\Мои документы\Visual Studio 2008\Projects\InventoryModuleManager2\Test\bin\Debug\Test.pdb
+C:\Documents and Settings\JohnSmith\Мои документы\Visual Studio 2008\Projects\InventoryModuleManager2\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JohnSmith\Мои документы\Visual Studio 2008\Projects\InventoryModuleManager2\Test\obj\Debug\Test.exe
+C:\Documents and Settings\JohnSmith\Мои документы\Visual Studio 2008\Projects\InventoryModuleManager2\Test\obj\Debug\Test.pdb
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\bin\Debug\Resources\base.mdb
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\bin\Debug\Test.exe
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\bin\Debug\Test.pdb
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\bin\Debug\InventoryModuleManager2.dll
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\bin\Debug\InventoryModuleManager2.pdb
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\obj\Debug\Test.exe
+C:\Work\myVirtualDisk\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\obj\Debug\Test.pdb
+V:\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\obj\Debug\Test.exe
+V:\МоиПроекты\Meraman FileStorage\InventoryModuleManager2\InventoryModuleManager2\Test\obj\Debug\Test.pdb

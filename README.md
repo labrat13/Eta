@@ -1,2 +1,2 @@
 # Eta
-Eta is a project
+Eta is a project of StorageTools
